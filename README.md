@@ -53,7 +53,11 @@ I used **line graphs, bar charts, and scatter plots** to show:
 - A **negative correlation** between wage and unemployment—except during the pandemic, higher wages often correlated with lower unemployment.
 
 - 
-![WAGEPERHOUR](https://github.com/user-attachments/assets/f026da7d-7904-47ec-97dc-3d76e631537b)
+![WAGEPERHR](https://github.com/user-attachments/assets/4291989b-ab3d-4546-a60e-433807b59365)
+![AVGMNTHLYICM](https://github.com/user-attachments/assets/a293299f-54b3-4ee0-8c34-461533587810)
+![WGHRSWRKD](https://github.com/user-attachments/assets/20ffeca2-fc43-481e-9639-94f460add68b)
+![CORRELATION](https://github.com/user-attachments/assets/2d711879-07bb-4bff-adb5-a844d3342064)
+
 
 
 
