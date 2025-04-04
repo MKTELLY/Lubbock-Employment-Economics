@@ -52,6 +52,9 @@ I used **line graphs, bar charts, and scatter plots** to show:
 - An **inverse relationship** between wage and hours worked.
 - A **negative correlation** between wage and unemployment—except during the pandemic, higher wages often correlated with lower unemployment.
 
+- 
+![WAGEPERHOUR](https://github.com/user-attachments/assets/f026da7d-7904-47ec-97dc-3d76e631537b)
+
 
 
 ### How to Run the Code
